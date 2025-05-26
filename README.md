@@ -4,8 +4,6 @@ Saya adalah seorang **Frontend Web Developer** yang bersemangat dalam menciptaka
 
 ### 🛠️ Teknologi yang Saya Kuasai:
 
-### 🛠️ Teknologi yang Saya Kuasai:
-
 **Bahasa Pemrograman:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
