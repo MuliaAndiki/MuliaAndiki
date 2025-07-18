@@ -15,6 +15,10 @@ Saya adalah seorang **Frontend Web Developer** yang bersemangat dalam menciptaka
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=for-the-badge&logoColor=white)
+![Magic UI](https://img.shields.io/badge/Magic%20UI-6E56CF?style=for-the-badge&logo=magic&logoColor=white)
+![React Bitz](https://img.shields.io/badge/React%20Bitz-1E1E1E?style=for-the-badge&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=zod&logoColor=white)
 
 #### 🖥️ Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
