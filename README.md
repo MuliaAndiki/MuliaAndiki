@@ -1,6 +1,6 @@
 ## Hai 👋, Saya Mulia Andiki!
 
-Saya adalah seorang **Frontend Web Developer** yang bersemangat dalam menciptakan pengalaman pengguna yang interaktif dan menarik melalui kode yang bersih, efisien, dan modern. Saya memiliki ketertarikan kuat terhadap pengembangan web dengan teknologi terkini serta praktik pengembangan yang baik.
+Saya adalah seorang **Full Stack Web Developer** yang antusias dalam membangun aplikasi web modern dari sisi frontend maupun backend. Saya fokus menciptakan pengalaman pengguna yang optimal melalui desain antarmuka yang interaktif, performa backend yang efisien, dan penggunaan teknologi terkini.
 
 ### 🛠️ Teknologi yang Saya Kuasai:
 
