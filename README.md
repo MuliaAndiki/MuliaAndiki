@@ -39,7 +39,7 @@ Saya adalah seorang **Full Stack Web Developer** yang bersemangat dalam membangu
 ### 🔥 Current Coding Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuliaAndiki&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MuliaAndiki&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
