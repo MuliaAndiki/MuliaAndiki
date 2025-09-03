@@ -46,8 +46,8 @@ Saya adalah seorang **Full Stack Web Developer** yang bersemangat dalam membangu
 
 ### 📈 Stats
 
-[![Mulia Andiki GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuliaAndiki&show_icons=true&theme=dracula&cache_seconds=86400)](https://github.com/MuliaAndiki)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuliaAndiki&theme=dracula&cache_seconds=86400)](https://github.com/MuliaAndiki)
+[![Mulia Andiki GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuliaAndiki&show_icons=true&theme=dracula&cache_seconds=1800&count_private=true&include_all_commits=true)](https://github.com/MuliaAndiki)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuliaAndiki&theme=dracula&langs_count=10&cache_seconds=1800)](https://github.com/MuliaAndiki)
 
 ---
 
