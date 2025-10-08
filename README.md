@@ -10,6 +10,11 @@ Saya adalah seorang **Full Stack Web Developer** yang bersemangat dalam membangu
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
 
 **Frontend Framework & Library:**
 
@@ -20,15 +25,18 @@ Saya adalah seorang **Full Stack Web Developer** yang bersemangat dalam membangu
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn_UI-gray?style=for-the-badge)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-black?style=for-the-badge)
-![Magic UI](https://img.shields.io/badge/Magic_UI-purple?style=for-the-badge)
-![React-Bitz](https://img.shields.io/badge/React_Bitz-61DAFB?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-6A0DAD?style=for-the-badge)
+
+---
 
 **Backend & Tools:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Go Backend](https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-ffcc33?style=for-the-badge&logo=pnpm&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
