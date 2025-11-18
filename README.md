@@ -1,66 +1,102 @@
-## Hai 👋, Saya Mulia Andiki!
+<div align="center">
+  
+# 👋 Hai, Saya Mulia Andiki
 
-Saya adalah seorang **Full Stack Web Developer** yang bersemangat dalam membangun aplikasi web modern yang interaktif, efisien, dan scalable. Saya fokus pada clean code, pengalaman pengguna, dan selalu mengikuti perkembangan teknologi terbaru.
+### 🚀 Full Stack Web Developer | Mobile Enthusiast | Clean Code Advocate
+
+> Membangun aplikasi web dan mobile yang modern, interaktif, dan scalable dengan fokus pada pengalaman pengguna terbaik
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulia-andiki-030457331)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dikzzycde)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muliaandiki@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Teknologi yang Saya Kuasai:
+## 💻 Tech Stack
 
-**Bahasa Pemrograman:**
+### 🎯 Languages
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+</div>
 
-**Frontend Framework & Library:**
+### ⚡ Frontend
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/Shadcn_UI-gray?style=for-the-badge)
-![Radix UI](https://img.shields.io/badge/Radix_UI-black?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-6A0DAD?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
----
+</div>
 
-**Backend & Tools:**
+### 🔧 Backend & Runtime
+<div align="center">
 
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Go Backend](https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Tools
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-ffcc33?style=for-the-badge&logo=pnpm&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-### 🔥 Current Coding Streak
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MuliaAndiki&theme=tokyonight" alt="streak"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuliaAndiki&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuliaAndiki&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuliaAndiki&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuliaAndiki&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-### 📈 Stats
+## 🎯 Activity Graph
 
-[![Mulia Andiki GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuliaAndiki&show_icons=true&theme=dracula&cache_seconds=1800&count_private=true&include_all_commits=true)](https://github.com/MuliaAndiki)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuliaAndiki&theme=dracula&langs_count=10&cache_seconds=1800)](https://github.com/MuliaAndiki)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuliaAndiki&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff6e96&line=ff6e96&point=c9d1d9" alt="Contribution Graph"/>
+</div>
 
 ---
 
-### 📫 Hubungi Saya:
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulia-andiki-030457331)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dikzzycde)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muliaandiki@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MuliaAndiki&color=ff6e96&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/MuliaAndiki?style=for-the-badge&color=ff6e96)](https://github.com/MuliaAndiki)
+
+</div>
