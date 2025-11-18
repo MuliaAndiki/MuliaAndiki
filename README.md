@@ -76,11 +76,11 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuliaAndiki&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuliaAndiki&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuliaAndiki&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuliaAndiki&theme=radical&no-frame=true&no-bg=true" />
 </div>
 
 ---
