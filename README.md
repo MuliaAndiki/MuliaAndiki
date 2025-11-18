@@ -50,6 +50,7 @@
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Elysia.js](https://img.shields.io/badge/Elysia.js-4B32C3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYiIGhlaWdodD0iNzYiIHZpZXdCb3g9IjAgMCA3NiA3NiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYzLjQxNjcgMTYuNTgzMUM2OC4xMDEyIDIxLjI2NzYgNjguMTAxMiAyOC43MzI0IDYzLjQxNjcgMzMuNDE2OEM1OC43MzIxIDM4LjEwMTMgNTEuMjY3MyAzOC4xMDEzIDQ2LjU4MjggMzMuNDE2OEM0MS44OTgyIDI4LjczMjQgNDEuODk4MiAyMS4yNjc2IDQ2LjU4MjggMTYuNTgzMUM1MS4yNjczIDExLjg5ODYgNTguNzMyMSAxMS44OTg2IDYzLjQxNjcgMTYuNTgzMVoiIGZpbGw9IiNGRkZGRkYiLz4KPHBhdGggZD0iTTMyLjU4MzIgMTYuNTgzMUMzNy4yNjc3IDIxLjI2NzYgMzcuMjY3NyAyOC43MzI0IDMyLjU4MzIgMzMuNDE2OEMyNy44OTg2IDM4LjEwMTMgMjAuNDMzOCAzOC4xMDEzIDE1Ljc0OTMgMzMuNDE2OEMxMS4wNjQ3IDI4LjczMjQgMTEuMDY0NyAyMS4yNjc2IDE1Ljc0OTMgMTYuNTgzMUMyMC40MzM4IDExLjg5ODYgMjcuODk4NiAxMS44OTg2IDMyLjU4MzIgMTYuNTgzMVoiIGZpbGw9IiNGRkZGRkYiIGZpbGwtb3BhY2l0eT0iMC41Ii8+Cjwvc3ZnPg==&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
