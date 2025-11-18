@@ -79,10 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuliaAndiki&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuliaAndiki&theme=radical&no-frame=true&no-bg=true" />
-</div>
-
 ---
 
 ## 🎯 Activity Graph
