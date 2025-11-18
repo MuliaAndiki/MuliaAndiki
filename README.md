@@ -75,9 +75,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuliaAndiki&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuliaAndiki&theme=radical&hide_border=true" />
-</div>
 
 ---
 
