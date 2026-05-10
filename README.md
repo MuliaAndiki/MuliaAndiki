@@ -9,7 +9,7 @@
 ║                                                      ║
 ║   M U L I A   A N D I K I                           ║
 ║   ─────────────────────────────────────────────     ║
-║   Full Stack Engineer                               ║
+║   Full Stack Engineer  ·  Builder                    ║
 ║   Banda Aceh, Indonesia                              ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production-grade+software.;Co-founder+%40+Mora+%7C+Elysia+%2B+Bun+%2B+Next.js;AI+%2F+IoT+%2F+Real-time+systems.;Turning+ideas+into+scalable+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production-grade+software.;Elysia+%2B+Bun+%2B+Next.js+%2B+TypeScript;AI+%2F+IoT+%2F+Real-time+systems.;Turning+ideas+into+scalable+products.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,11 +35,11 @@
 
 ```typescript
 const mulia: Engineer = {
-  role:       "Full Stack Engineer",
+  role:       "Full Stack Engineer & Startup Co-founder",
   location:   "Banda Aceh, Aceh — Indonesia 🇮🇩",
   education:  "Software Engineering @ Universitas Syiah Kuala (6th sem)",
   runtime:    ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
-  editor:     "Vscode on Ubuntu Linux",
+  editor:     "Neovim (LazyVim) on Ubuntu Linux",
   interests:  ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
   currentFocus: "Building Fluxo · NutriPlate · AERIS · Simlo",
 };
@@ -86,7 +86,7 @@ const mulia: Engineer = {
 </tbody>
 </table>
 
-> All products are built under **[Mora](https://github.com/MuliaAndiki)** — a software startup focused on IoT, AI-driven systems, and smart infrastructure.
+> A collection of personal projects spanning IoT, AI, and real-time systems.
 
 ---
 
