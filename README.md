@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 <br/>
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production-grade+software.;Elysia+%2B+Bun+%2B+Next.js+%2B+TypeScript;AI+%2F+IoT+%2F+Real-time+systems.;Turning+ideas+into+scalable+products.)](https://git.io/typing-svg)
 
@@ -19,21 +18,25 @@
 
 ---
 
-## `$ whoami`
+## 〉whoami
 
 ```typescript
 const mulia: Engineer = {
-  role:       "Full Stack Engineer & Startup Co-founder",
-  location:   "Banda Aceh, Aceh — Indonesia 🇮🇩",
-  education:  "Software Engineering @ Universitas Syiah Kuala (6th sem)",
-  runtime:    ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
-  editor:     "Visual Studio Code on Ubuntu Linux",
-  interests:  ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
+  role:        "Full Stack Engineer",
+  location:    "Banda Aceh, Aceh — Indonesia 🇮🇩",
+  education:   "Software Engineering @ Universitas Syiah Kuala (6th sem)",
+  runtime:     ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
+  editor:      "Vscode on Ubuntu Linux",
+  interests:   ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
   currentFocus: "Building Fluxo · NutriPlate · AERIS · Simlo",
 };
 ```
 
-## `$ cat tech-stack.json`
+I build production-grade systems at the intersection of **AI, IoT, and real-time infrastructure** — from voice-driven smart home pipelines to computer vision–powered monitoring platforms. My engineering practice is grounded in ownership: understanding not just how code works, but why it exists and how it fails.
+
+---
+
+## 〉tech-stack
 
 ### Languages
 
@@ -80,7 +83,7 @@ const mulia: Engineer = {
 
 ---
 
-## `$ git log --stats`
+## 〉git log --stats
 
 <div align="center">
 
@@ -103,7 +106,7 @@ const mulia: Engineer = {
 
 ---
 
-## `$ top` — Current Focus
+## 〉current focus
 
 ```
 PID   PROCESS                  CPU    STATUS
@@ -117,24 +120,61 @@ PID   PROCESS                  CPU    STATUS
 
 ---
 
-## `$ ping philosophy.txt`
+## 〉engineering philosophy
 
-<div align="center">
+I do not write code merely to make things work.
+I write code that **endures, scales, and communicates intent**.
 
-> *"Abstraction is power — but shipping is truth."*
+**Clean Code** is a non-negotiable standard — not an aspiration. Every function has a single responsibility. Every abstraction earns its existence. Naming is deliberate. Side effects are explicit.
 
-> *"Build systems that scale, write code that speaks."*
+**High Performance** is a design principle, not an afterthought. Profile before optimizing. Understand the runtime. Respect memory, latency, and throughput as first-class engineering constraints.
 
-</div>
+**Engineering Ownership** means understanding not just how code works, but why it exists, how it fails, and how to improve it.
+
+| Principle | Practice |
+| :-------- | :------- |
+| **Single Responsibility** | Every module does one thing, and does it completely |
+| **Explicit over Implicit** | Code behavior must be readable without external context |
+| **Performance-Aware Design** | Benchmarked, profiled, and justified architectural decisions |
+| **Version-Controlled Everything** | No work happens outside a documented, reviewable history |
+| **Documentation as First-Class Artifact** | If it isn't documented, it doesn't exist |
 
 ---
 
-<div align="center">
+## 〉open to collaborate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
+I'm open to working on projects that push meaningful boundaries — especially in the areas of IoT infrastructure, AI/ML integration, and real-time systems.
 
-**Let's build something meaningful.**
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulia-andiki-030457331)
-[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:email-muliaandiki@gmail.com)
+If you want to build something together, here's how to reach me:
 
-</div>
+1. **Identify the scope** — What are we building, and what problem does it solve?
+2. **Align on stack** — I default to `Bun + ElysiaJS` for backend and `Next.js + Tailwind` for frontend unless there's a strong reason otherwise.
+3. **Open a conversation** — Reach out via email or LinkedIn. No pitch decks needed — a clear problem statement is enough.
+4. **Start small** — A well-scoped first milestone beats a vague long-term plan. Ship something real first.
+
+> Collaboration works best when both sides bring ownership, not just availability.
+
+<p align="left">
+  <a href="mailto:email-muliaandiki@gmail.com">
+    <img src="https://img.shields.io/badge/Email-email--muliaandiki%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mulia-andiki-030457331">
+    <img src="https://img.shields.io/badge/LinkedIn-mulia--andiki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuliaAndiki">
+    <img src="https://img.shields.io/badge/GitHub-MuliaAndiki-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+> *"The best engineers are not those who write the most code,*  
+> *but those who write the least code necessary to solve the right problem."*
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+</p>
