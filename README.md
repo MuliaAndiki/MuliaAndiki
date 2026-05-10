@@ -3,18 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 <br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   M U L I A   A N D I K I                           ║
-║   ─────────────────────────────────────────────     ║
-║   Full Stack Engineer  ·  Builder                    ║
-║   Banda Aceh, Indonesia                              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production-grade+software.;Elysia+%2B+Bun+%2B+Next.js+%2B+TypeScript;AI+%2F+IoT+%2F+Real-time+systems.;Turning+ideas+into+scalable+products.)](https://git.io/typing-svg)
@@ -39,56 +27,11 @@ const mulia: Engineer = {
   location:   "Banda Aceh, Aceh — Indonesia 🇮🇩",
   education:  "Software Engineering @ Universitas Syiah Kuala (6th sem)",
   runtime:    ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
-  editor:     "Neovim (LazyVim) on Ubuntu Linux",
+  editor:     "Visual Studio Code on Ubuntu Linux",
   interests:  ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
   currentFocus: "Building Fluxo · NutriPlate · AERIS · Simlo",
 };
 ```
-
----
-
-## `$ ls ventures/`
-
-<table>
-<thead>
-  <tr>
-    <th align="left">Product</th>
-    <th align="left">Description</th>
-    <th align="left">Stack</th>
-    <th align="left">Status</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><b>🌐 Fluxo</b></td>
-    <td>Smart home assistant — voice-to-text → IoT execution pipeline</td>
-    <td><code>Bun</code> <code>ElysiaJS</code> <code>MQTT</code></td>
-    <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><b>🍽️ NutriPlate</b></td>
-    <td>IoT scales + Computer Vision for real-time nutritional monitoring</td>
-    <td><code>YOLO</code> <code>TF.js</code> <code>Next.js</code></td>
-    <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><b>🌍 AERIS</b></td>
-    <td>Location-aware environmental risk dashboard</td>
-    <td><code>Open-Meteo</code> <code>Geoapify</code> <code>React</code></td>
-    <td><img src="https://img.shields.io/badge/Active-22c55e?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><b>🛣️ Simlo</b></td>
-    <td>Automated road damage detection & reporting system</td>
-    <td><code>TF.js</code> <code>Prisma</code> <code>Next.js</code></td>
-    <td><img src="https://img.shields.io/badge/Building-f59e0b?style=flat-square" /></td>
-  </tr>
-</tbody>
-</table>
-
-> A collection of personal projects spanning IoT, AI, and real-time systems.
-
----
 
 ## `$ cat tech-stack.json`
 
