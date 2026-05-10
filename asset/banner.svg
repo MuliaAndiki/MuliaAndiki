@@ -1,0 +1,115 @@
+<svg width="860" height="300" viewBox="0 0 860 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mulia Andiki — Full Stack Engineer">
+  <title>Mulia Andiki — Full Stack Engineer</title>
+
+  <defs>
+    <radialGradient id="orb1" cx="88%" cy="15%" r="45%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="8%" cy="90%" r="35%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8B5CF6" stroke-width="0.5" stroke-opacity="0.1"/>
+    </pattern>
+    <linearGradient id="divLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bottomLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect width="860" height="300" rx="16"/>
+    </clipPath>
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .dot { animation: pulse 2s ease-in-out infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <!-- Background -->
+    <rect width="860" height="300" fill="#0a0a0f"/>
+    <rect width="860" height="300" fill="url(#grid)"/>
+    <rect width="860" height="300" fill="url(#orb1)"/>
+    <rect width="860" height="300" fill="url(#orb2)"/>
+
+    <!-- Top accent line -->
+    <rect x="0" y="0" width="860" height="2" fill="url(#divLine)" opacity="0.6"/>
+
+    <!-- Status indicator -->
+    <circle cx="52" cy="52" r="4" fill="#8B5CF6" class="dot"/>
+    <text x="64" y="57" font-family="Courier New, Courier, monospace" font-size="10.5" fill="#8B5CF6" letter-spacing="2.5" font-weight="400">AVAILABLE FOR COLLABORATION</text>
+
+    <!-- Name: Mulia (white) -->
+    <text x="44" y="136"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="64"
+      font-weight="700"
+      fill="#ffffff"
+      letter-spacing="-1">Mulia</text>
+
+    <!-- Name: Andiki (purple) -->
+    <text x="260" y="136"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="64"
+      font-weight="700"
+      fill="#8B5CF6"
+      letter-spacing="-1">Andiki</text>
+
+    <!-- Cursor -->
+    <rect x="622" y="86" width="3" height="46" rx="1" fill="#8B5CF6" class="cursor"/>
+
+    <!-- Divider -->
+    <rect x="44" y="154" width="240" height="1" fill="url(#divLine)"/>
+
+    <!-- Role line -->
+    <text x="44" y="182" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#94a3b8" letter-spacing="0.3">Full Stack Engineer</text>
+    <circle cx="204" cy="177" r="2.5" fill="#8B5CF6" opacity="0.6"/>
+    <text x="215" y="182" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#94a3b8" letter-spacing="0.3">Builder</text>
+    <circle cx="275" cy="177" r="2.5" fill="#8B5CF6" opacity="0.6"/>
+    <text x="286" y="182" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#64748b" letter-spacing="0.3">Banda Aceh, Indonesia</text>
+
+    <!-- Tags row -->
+    <!-- TypeScript -->
+    <rect x="44" y="208" width="96" height="24" rx="4" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.4"/>
+    <text x="92" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">TypeScript</text>
+
+    <!-- Bun + ElysiaJS -->
+    <rect x="148" y="208" width="114" height="24" rx="4" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.4"/>
+    <text x="205" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">Bun + ElysiaJS</text>
+
+    <!-- Next.js -->
+    <rect x="270" y="208" width="72" height="24" rx="4" fill="none" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.35"/>
+    <text x="306" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="0.5">Next.js</text>
+
+    <!-- IoT -->
+    <rect x="350" y="208" width="44" height="24" rx="4" fill="none" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.35"/>
+    <text x="372" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="0.5">IoT</text>
+
+    <!-- CV / ML -->
+    <rect x="402" y="208" width="62" height="24" rx="4" fill="none" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.35"/>
+    <text x="433" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="0.5">CV / ML</text>
+
+    <!-- System Design -->
+    <rect x="472" y="208" width="108" height="24" rx="4" fill="none" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.35"/>
+    <text x="526" y="224" font-family="Courier New, Courier, monospace" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="0.5">System Design</text>
+
+    <!-- Bottom accent line -->
+    <rect x="0" y="298" width="860" height="2" fill="url(#bottomLine)"/>
+  </g>
+</svg>

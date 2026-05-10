@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 <br/>
+<div align="center">
+  <img src="./asset/banner.svg" alt="Mulia Andiki" width="100%"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production-grade+software.;Elysia+%2B+Bun+%2B+Next.js+%2B+TypeScript;AI+%2F+IoT+%2F+Real-time+systems.;Turning+ideas+into+scalable+products.)](https://git.io/typing-svg)
 
@@ -22,12 +25,12 @@
 
 ```typescript
 const mulia: Engineer = {
-  role:        "Full Stack Engineer",
-  location:    "Banda Aceh, Aceh — Indonesia 🇮🇩",
-  education:   "Software Engineering @ Universitas Syiah Kuala (6th sem)",
-  runtime:     ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
-  editor:      "Vscode on Ubuntu Linux",
-  interests:   ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
+  role: "Full Stack Engineer",
+  location: "Banda Aceh, Aceh — Indonesia 🇮🇩",
+  education: "Software Engineering @ Universitas Syiah Kuala (6th sem)",
+  runtime: ["Bun", "ElysiaJS", "Next.js", "Docker", "Coolify"],
+  editor: "Vscode on Ubuntu Linux",
+  interests: ["IoT Systems", "Computer Vision", "AI/ML", "System Design"],
   currentFocus: "Building Fluxo · NutriPlate · AERIS · Simlo",
 };
 ```
@@ -117,10 +120,11 @@ PID   PROCESS                  CPU    STATUS
 004   Simlo (road damage AI)   ██░░   building
 005   Apple Dev Academy 2027   █░░░   applying
 ```
+
 <p align="center">
 
-> *"The best engineers are not those who write the most code,*  
-> *but those who write the least code necessary to solve the right problem."*
+> _"The best engineers are not those who write the most code,_  
+> _but those who write the least code necessary to solve the right problem."_
 
 </p>
 
