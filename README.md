@@ -117,57 +117,6 @@ PID   PROCESS                  CPU    STATUS
 004   Simlo (road damage AI)   ██░░   building
 005   Apple Dev Academy 2027   █░░░   applying
 ```
-
----
-
-## 〉engineering philosophy
-
-I do not write code merely to make things work.
-I write code that **endures, scales, and communicates intent**.
-
-**Clean Code** is a non-negotiable standard — not an aspiration. Every function has a single responsibility. Every abstraction earns its existence. Naming is deliberate. Side effects are explicit.
-
-**High Performance** is a design principle, not an afterthought. Profile before optimizing. Understand the runtime. Respect memory, latency, and throughput as first-class engineering constraints.
-
-**Engineering Ownership** means understanding not just how code works, but why it exists, how it fails, and how to improve it.
-
-| Principle | Practice |
-| :-------- | :------- |
-| **Single Responsibility** | Every module does one thing, and does it completely |
-| **Explicit over Implicit** | Code behavior must be readable without external context |
-| **Performance-Aware Design** | Benchmarked, profiled, and justified architectural decisions |
-| **Version-Controlled Everything** | No work happens outside a documented, reviewable history |
-| **Documentation as First-Class Artifact** | If it isn't documented, it doesn't exist |
-
----
-
-## 〉open to collaborate
-
-I'm open to working on projects that push meaningful boundaries — especially in the areas of IoT infrastructure, AI/ML integration, and real-time systems.
-
-If you want to build something together, here's how to reach me:
-
-1. **Identify the scope** — What are we building, and what problem does it solve?
-2. **Align on stack** — I default to `Bun + ElysiaJS` for backend and `Next.js + Tailwind` for frontend unless there's a strong reason otherwise.
-3. **Open a conversation** — Reach out via email or LinkedIn. No pitch decks needed — a clear problem statement is enough.
-4. **Start small** — A well-scoped first milestone beats a vague long-term plan. Ship something real first.
-
-> Collaboration works best when both sides bring ownership, not just availability.
-
-<p align="left">
-  <a href="mailto:email-muliaandiki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-email--muliaandiki%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mulia-andiki-030457331">
-    <img src="https://img.shields.io/badge/LinkedIn-mulia--andiki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MuliaAndiki">
-    <img src="https://img.shields.io/badge/GitHub-MuliaAndiki-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
 
 > *"The best engineers are not those who write the most code,*  
