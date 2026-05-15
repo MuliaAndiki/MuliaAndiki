@@ -66,7 +66,7 @@ I build production-grade systems at the intersection of **AI, IoT, and real-time
 ![ElysiaJS](https://img.shields.io/badge/Elysia.js-4B32C3?style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Data & Infrastructure
 
@@ -87,13 +87,6 @@ I build production-grade systems at the intersection of **AI, IoT, and real-time
 ---
 
 ## 〉git log --stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuliaAndiki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=94a3b8&ring_color=8B5CF6" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuliaAndiki&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=94a3b8" />
-
-</div>
 
 <div align="center">
 
