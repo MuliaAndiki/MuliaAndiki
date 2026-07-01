@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%" />
-
 <br/>
 <div align="center">
   <img src="./asset/banner.svg" alt="Mulia Andiki" width="100%"/>
@@ -121,6 +119,3 @@ PID   PROCESS                  CPU    STATUS
 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-</p>
