@@ -106,10 +106,7 @@ I build production-grade systems at the intersection of **AI, IoT, and real-time
 PID   PROCESS                  CPU    STATUS
 ───────────────────────────────────────────────
 001   Fluxo (smart home)       ████   running
-002   NutriPlate (CV + IoT)    ████   running
-003   AERIS (env dashboard)    ███░   running
-004   Simlo (road damage AI)   ██░░   building
-005   Apple Dev Academy 2027   █░░░   applying
+002   Space (struck)           ███    running
 ```
 
 <p align="center">
